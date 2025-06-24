@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warehouse.Dominio", "warehouse.Dominio\warehouse.Dominio.csproj", "{0137E377-0B45-4638-8BBB-5826C50E2C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warehouse.Infraestrutura", "warehouse.Infraestrutura\warehouse.Infraestrutura.csproj", "{F1E24F98-5D35-43D5-B697-9A58C79435B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0137E377-0B45-4638-8BBB-5826C50E2C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0137E377-0B45-4638-8BBB-5826C50E2C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0137E377-0B45-4638-8BBB-5826C50E2C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0137E377-0B45-4638-8BBB-5826C50E2C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E24F98-5D35-43D5-B697-9A58C79435B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E24F98-5D35-43D5-B697-9A58C79435B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E24F98-5D35-43D5-B697-9A58C79435B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E24F98-5D35-43D5-B697-9A58C79435B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
